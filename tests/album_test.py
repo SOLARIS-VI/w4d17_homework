@@ -11,6 +11,7 @@ class TestAlbum(unittest.TestCase):
     
     def test_album_has_title(self):
         self.assertEqual("Thriller", self.album.title)
-        
+
     def test_album_has_artist(self):
-        self.assertEqual("Michael Jackson", self.album.artist.full_name)
+        self.assertEqual("Michael", self.album.artist.first_name)
+        self.assertEqual("Jackson", self.album.artist.last_name)

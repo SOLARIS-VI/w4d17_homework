@@ -12,3 +12,6 @@ class TestArtist(unittest.TestCase):
         
     def test_artist_has_last_name(self):
         self.assertEqual("Jackson", self.artist.last_name)
+
+    
+
