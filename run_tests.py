@@ -1,4 +1,4 @@
-# Importing necessary modules and classes for running tests.
+# Importing necessary modules and classes for running tests
 import unittest
 from tests.album_test import TestAlbum
 from tests.artist_test import TestArtist

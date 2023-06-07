@@ -1,4 +1,4 @@
-# Importing necessary module for running SQL queries.
+# Importing necessary module for running SQL queries
 import psycopg2
 import psycopg2.extras as ext
 

@@ -21,4 +21,4 @@ Additionally it would be nice to be able to:
 * Edit Artists/Albums
 * Delete Artists/Albums
 
-Remember to regularly git commit.
+Remember to regularly git commit!

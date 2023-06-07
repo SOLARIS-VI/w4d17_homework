@@ -1,4 +1,4 @@
-# Album class definition.
+# Album class definition
 class Album:
     def __init__(self, title, artist, id=None):
         self.title = title

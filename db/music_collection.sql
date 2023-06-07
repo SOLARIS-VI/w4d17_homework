@@ -1,4 +1,4 @@
--- SQL script to create tables.
+-- SQL script to create tables
 
 -- Drop existing tables
 DROP TABLE IF EXISTS albums;
