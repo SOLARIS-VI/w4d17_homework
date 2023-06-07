@@ -1,4 +1,4 @@
-# Importing necessary modules and classes
+# Importing necessary modules and classes.
 import pdb
 from db.run_sql import run_sql
 from models.album import Album

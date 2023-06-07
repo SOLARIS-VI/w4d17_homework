@@ -1,4 +1,4 @@
-# Importing necessary modules and classes for album tests
+# Importing necessary modules and classes for album tests.
 import unittest
 from models.album import Album
 from models.artist import Artist

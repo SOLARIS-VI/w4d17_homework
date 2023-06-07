@@ -1,4 +1,4 @@
-# Importing necessary modules and classes for artist tests
+# Importing necessary modules and classes for artist tests.
 import unittest
 from models.artist import Artist
 

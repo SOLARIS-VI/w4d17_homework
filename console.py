@@ -1,4 +1,4 @@
-# Importing necessary modules and classes
+# Importing necessary modules and classes.
 import pdb
 from models.album import Album
 from models.artist import Artist
