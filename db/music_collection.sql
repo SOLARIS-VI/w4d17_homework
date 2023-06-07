@@ -17,3 +17,5 @@ CREATE TABLE albums (
     title VARCHAR(255) NOT NULL,
     artist_id INTEGER REFERENCES artists(id)
 );
+
+hello
