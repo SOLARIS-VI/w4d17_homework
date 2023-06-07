@@ -18,4 +18,3 @@ CREATE TABLE albums (
     artist_id INTEGER REFERENCES artists(id)
 );
 
-hello
